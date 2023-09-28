@@ -1,9 +1,74 @@
-<mxfile host="app.diagrams.net" modified="2023-09-28T07:43:38.030Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" version="21.8.2" etag="CJnIEssDu9zELphdDMzK" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-28T08:01:28.035Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="_JSMqfTqgOL1Ex4haN9D" version="21.8.2" type="github">
   <diagram name="Page-1" id="y83dZcrgHPVRtrX7cQVF">
-    <mxGraphModel>
+    <mxGraphModel dx="606" dy="367" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="CmewRvpW9hDZDw-DS7wx-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.999;entryY=0.552;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="CmewRvpW9hDZDw-DS7wx-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="425" y="300" as="sourcePoint" />
+            <mxPoint x="355" y="395" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="425" y="400" />
+              <mxPoint x="355" y="400" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CmewRvpW9hDZDw-DS7wx-1" value="Cards Database" style="html=1;dashed=0;whiteSpace=wrap;shape=partialRectangle;right=0;left=0;" vertex="1" parent="1">
+          <mxGeometry x="375" y="270" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CmewRvpW9hDZDw-DS7wx-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CmewRvpW9hDZDw-DS7wx-2" target="CmewRvpW9hDZDw-DS7wx-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CmewRvpW9hDZDw-DS7wx-2" value="User" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="30" y="260" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="CmewRvpW9hDZDw-DS7wx-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CmewRvpW9hDZDw-DS7wx-5" target="CmewRvpW9hDZDw-DS7wx-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CmewRvpW9hDZDw-DS7wx-5" value="Create new&lt;br&gt;card" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="220" y="245" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="CmewRvpW9hDZDw-DS7wx-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="CmewRvpW9hDZDw-DS7wx-8" target="CmewRvpW9hDZDw-DS7wx-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="80" y="400" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CmewRvpW9hDZDw-DS7wx-8" value="Practice&amp;nbsp;&lt;br&gt;flashcards" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="130" y="355" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="CmewRvpW9hDZDw-DS7wx-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CmewRvpW9hDZDw-DS7wx-9" target="CmewRvpW9hDZDw-DS7wx-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CmewRvpW9hDZDw-DS7wx-9" value="get cards&lt;br&gt;from database" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="260" y="350" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="CmewRvpW9hDZDw-DS7wx-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CmewRvpW9hDZDw-DS7wx-13" target="CmewRvpW9hDZDw-DS7wx-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="370" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CmewRvpW9hDZDw-DS7wx-13" value="rate card&lt;br&gt;after practice" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="30" y="450" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="CmewRvpW9hDZDw-DS7wx-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.368;entryY=0.996;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;exitX=0.453;exitY=-0.003;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="CmewRvpW9hDZDw-DS7wx-13" target="CmewRvpW9hDZDw-DS7wx-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="70" y="279.4" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CmewRvpW9hDZDw-DS7wx-18" value="update card&lt;br&gt;metadata" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="330" y="450" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="CmewRvpW9hDZDw-DS7wx-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="CmewRvpW9hDZDw-DS7wx-18" target="CmewRvpW9hDZDw-DS7wx-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="485" y="270" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="450" y="490" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
