@@ -60,6 +60,15 @@
         <mxCell id="IebLuJltOp7YtP0OwvvJ-14" value="notify about price drop" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="175" y="90" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="IebLuJltOp7YtP0OwvvJ-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;" edge="1" parent="1" source="IebLuJltOp7YtP0OwvvJ-17" target="IebLuJltOp7YtP0OwvvJ-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IebLuJltOp7YtP0OwvvJ-17" value="get product and user info" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="380" y="260" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="IebLuJltOp7YtP0OwvvJ-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.455;entryY=1.042;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="IebLuJltOp7YtP0OwvvJ-17" target="IebLuJltOp7YtP0OwvvJ-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
